@@ -19,6 +19,7 @@ h2
 }
 h3{
     font-size: 2rem;
+    font-weight:100;
 }
 p
 {
@@ -88,7 +89,7 @@ a:hover
 }
 .ih
 {
-    border-radius: 60%;
+    border-radius: 100%;
     width: 25%;
     float: left;
     margin-right: 30px;
