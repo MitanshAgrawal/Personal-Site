@@ -37,9 +37,10 @@ p
 }
 hr{
     border: dotted rgb(179, 91, 91) 6px ;
-    width: 3%;
+    width: 4%;
     border-bottom: none;
     margin: 100px auto;
+    border-radius: 100%;
 }
 .middle-container
 {
