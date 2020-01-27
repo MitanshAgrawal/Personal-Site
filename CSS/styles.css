@@ -89,6 +89,7 @@ a:hover
 }
 .ih
 {
+    border-radius: 100%;
     width: 25%;
     float: left;
     margin-right: 30px;
